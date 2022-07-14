@@ -1,0 +1,4 @@
+1)How to copy file to another file using cp command
+cp filename(if you wish to copy particular file another folder then include their path) filename(Directly put file name if you are in that folder otherwise use thier whole path and then their file name)
+
+        cp [filename/filename with path] [filename/filename with path]
